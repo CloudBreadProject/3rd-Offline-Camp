@@ -11,9 +11,9 @@
 - 유니티 개발자라면, Unity Studio 5.0 이상 설치 : [Unity 다운로드 페이지](http://unity3d.com/kr/get-unity/download?ref=personal)에서 받으실 수 있습니다.
 - Postman : http://www.getpostman.com/ 에서 다운로드 후 Mac용 또는 Windows Chrome용을 설치합니다.
 - Github Desktop 설치 : https://desktop.github.com/ 에서 자신의 OS에 맞는 Github 데스크톱을 설치합니다.
-- SQL Server 2014 클라이언트 : Azure의 SQL Database 관리를 위한 툴입니다. [SQL 2014 다운로드 링크](https://www.microsoft.com/ko-KR/download/details.aspx?id=42299)에서 32비트 또는 64비트 버전에 맞는 관리도구를 다운로드 합니다. “MgmtStudio 32BIT\SQLManagementStudio_x86KOR.exe” 또는, “MgmtStudio 64BIT\SQLManagementStudiox64_KOR.exe”를 선택해 설치합니다.
+- (게임 서버 개발자 선택 설치)SQL Server 2014 클라이언트 : Azure의 SQL Database 관리를 위한 툴입니다. [SQL 2014 다운로드 링크](https://www.microsoft.com/ko-KR/download/details.aspx?id=42299)에서 32비트 또는 64비트 버전에 맞는 관리도구를 다운로드 합니다. “MgmtStudio 32BIT\SQLManagementStudio_x86KOR.exe” 또는, “MgmtStudio 64BIT\SQLManagementStudiox64_KOR.exe”를 선택해 설치합니다.
  -  **게임 서버 개발자라면**, 전체 기능을 자신의 개발 환경에서 사용하기 위해 관리 툴만 설치가 아니라 ExpressAndTools 32BIT\SQLEXPRWT_**x86**_KOR.exe 또는 ExpressAndTools 64BIT\SQLEXPRWT_**x64**_KOR.exe을 설치합니다.
 - node.js 설치 https://nodejs.org/en/ 사이트에서 v5.7 이상의 Stable 버전을 설치합니다.(2016년 3월 기준 5.7.1 버전)
-- Visual Studio 커뮤니티 2015 : [Visual Studio 2015 커뮤니티 다운로드](https://www.visualstudio.com/ko-kr/products/visual-studio-community-vs.aspx)에서 받으실 수 있으며 페이지 하단 용도에 맞게 설치하세요.(설치에 30분 가량 소요됩니다.)
-- Visual Studio 2015 업데이트 : [Visual Studio 업데이트 페이지](https://www.microsoft.com/en-US/download/details.aspx?id=49989)에서 버전에 맞는 설치가 가능합니다.
-- Azure SDK 2.8 for Visual Studio 2015 설치 : [Azure SDK 다운로드 페이지](https://azure.microsoft.com/en-us/downloads/)에서 VS 2015 버전용 다운로드를 설치 하시면 됩니다.
+- (게임 서버 개발자 선택 설치)Visual Studio 커뮤니티 2015 : [Visual Studio 2015 커뮤니티 다운로드](https://www.visualstudio.com/ko-kr/products/visual-studio-community-vs.aspx)에서 받으실 수 있으며 페이지 하단 용도에 맞게 설치하세요.(설치에 30분 가량 소요됩니다.)
+- (게임 서버 개발자 선택 설치)Visual Studio 2015 업데이트 : [Visual Studio 업데이트 페이지](https://www.microsoft.com/en-US/download/details.aspx?id=49989)에서 버전에 맞는 설치가 가능합니다.
+- (게임 서버 개발자 선택 설치)Azure SDK 2.8 for Visual Studio 2015 설치 : [Azure SDK 다운로드 페이지](https://azure.microsoft.com/en-us/downloads/)에서 VS 2015 버전용 다운로드를 설치 하시면 됩니다.
